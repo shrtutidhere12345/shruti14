@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python, JS**
+- 🌱 I’m currently learning **Flask, JS**
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,HTML,CSS, Python, MYSQL**
 
 - 📫 How to reach me **shrutidhere1234@gmail.com**
 
